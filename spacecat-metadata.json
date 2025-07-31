@@ -2,7 +2,7 @@
   "name": "Spacecat",
   "symbol": "SPC",
   "description": "Spacecat is an ERC20 token for the spacecat community.",
-  "image": "https://github.com/Spacecat-SPC/spacecat-images/blob/main/SPCLOGO.png",
+  "image": "https://raw.githubusercontent.com/Spacecat-SPC/spacecat-images/main/SPCLOGO.png",
   "external_url": "https://thespacecat.com",
   "decimals": 18,
   "contract_address": "0x4B6854028B87070AC277F1B67a419d0cD30E1620"
